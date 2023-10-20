@@ -75,9 +75,6 @@ This will demonstrate the correction of misspelled text.
 To assist you further, we've prepared a video tutorial demonstrating these steps. You can watch the tutorial...coming soon...
 
 Feel free to contact the [repository owner](https://github.com/jddavis-ai) for any questions or issues.
-
-Enjoy using the CIM-Base model for cim-misspelling!
-
 ```
 
 In this markdown file, replace `video_link` with the actual link to your video tutorial. This comprehensive guide will help users navigate the process of running the CIM-Base model effectively.
