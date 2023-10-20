@@ -72,9 +72,9 @@ This will demonstrate the correction of misspelled text.
 
 ## Video Tutorial
 
-To assist you further, we've prepared a video tutorial demonstrating these steps. You can watch the tutorial [here](video_link).
+To assist you further, we've prepared a video tutorial demonstrating these steps. You can watch the tutorial...coming soon...
 
-Feel free to contact the [repository owner](https://github.com/dalgu90) for any questions or issues.
+Feel free to contact the [repository owner](https://github.com/jddavis-ai) for any questions or issues.
 
 Enjoy using the CIM-Base model for cim-misspelling!
 
