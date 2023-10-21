@@ -1,8 +1,7 @@
 # Implementing-AI-Spell-Checker
 
-To create a comprehensive documentation markdown file for using the code to run the CIM-Base (12-layer) model for cim-misspelling, follow these instructions:
+Here's some fun instructions for implementing an CIM spell checker (this is a variation of a transformers model).
 
-```markdown
 # CIM-Base (12-layer) for cim-misspelling
 
 This documentation provides step-by-step instructions on how to run the CIM-Base (12-layer) model for cim-misspelling. The code is available in the [dalgu90/cim-misspelling](https://github.com/dalgu90/cim-misspelling) repository.
@@ -75,6 +74,3 @@ This will demonstrate the correction of misspelled text.
 To assist you further, we've prepared a video tutorial demonstrating these steps. You can watch the tutorial...coming soon...
 
 Feel free to contact the [repository owner](https://github.com/jddavis-ai) for any questions or issues.
-```
-
-In this markdown file, replace `video_link` with the actual link to your video tutorial. This comprehensive guide will help users navigate the process of running the CIM-Base model effectively.
